@@ -1,12 +1,25 @@
+**First Fork this Old Bash Repl**
 
-This is how to get root permissions in replit.
+https://replit.com/@techcode31287/oldbash
 
-<a href="https://repl.it/" class+"button">Go To Replit</a>
-<style>
-  .button
-  {font-size: 15;
-   background-image: linear-graqdient(purple,blue)
-   padding: 15px 15px;
-   }
-     
+
+**𝐓𝐡𝐢𝐬 𝐢𝐬 𝐡𝐨𝐰 𝐭𝐨 𝐠𝐞𝐭 𝐫𝐨𝐨𝐭 𝐩𝐞𝐫𝐦𝐢𝐬𝐬𝐢𝐨𝐧𝐬 𝐢𝐧 𝐫𝐞𝐩𝐥𝐢𝐭.**
+
+wget https://big.apkadmin.com/cgi-bin/dl.cgi/jgfabs4tverglplnjqqyo25yvqn5zdhvvghi6tg3bo3xwgwtqt3jraa/root.zip
+
+unzip root.zip
+
+unzip root.zip
+
+tar -xvf root.tar.xz
+
+./dist/proot -S . /bin/bash
   
+**𝐈𝐟 𝐮 𝐧𝐨𝐭 𝐰𝐚𝐧𝐭 𝐭𝐨 𝐝𝐨 given above 𝐭𝐡𝐞𝐧**
+
+Clone this repl 
+https://replit.com/@techcode31287/rootreplit
+
+run command
+
+./dist/proot -S . /bin/bash
