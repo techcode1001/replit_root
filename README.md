@@ -9,7 +9,7 @@ https://replit.com/@techcode31287/oldbash
 
 wget https://big.apkadmin.com/cgi-bin/dl.cgi/jgfabs4tverglplnjqqyo25yvqn5zdhvvghi6tg3bo3xwgwtqt3jraa/replit.zip
 
-unzip root.zip
+unzip replit.zip
 
 unzip root.zip
 
