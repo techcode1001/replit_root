@@ -9,7 +9,7 @@ https://replit.com/@techcode31287/oldbash
 
 wget https://cdn.discordapp.com/attachments/853535040250970113/878590395611775016/yt.zip
 
-unzip replit.zip
+unzip yt.zip
 
 unzip root.zip
 
